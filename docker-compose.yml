@@ -5,7 +5,7 @@ services:
     container_name: Programiranje-u-Javi-2024-2025-FPMOZ-master
     image: Programiranje-u-Javi-2024-2025-FPMOZ-master:latest
     ports:
-      - 8080:8080
+      - 8084:8084
     networks:
       - rest-network
     volumes:
